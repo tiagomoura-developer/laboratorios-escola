@@ -4,6 +4,9 @@ Sistema de Reserva de Laboratórios (Escolar)
 Este é um projeto que se desenvolve para resolver um problema comum em ambientes escolares: a organização e o agendamento de laboratórios. A ideia foi criar uma interface simples, rápida e que evitasse o conflito de horários entre professores e turmas.
 O sistema permite gerenciar cadastros de professores, turmas e monitores, além de oferecer um calendário interativo para marcação de eventos e reservas por períodos.
 
+Acesse aqui: 
+https://papaya-boba-120ce0.netlify.app/
+
 Funcionalidades
 Autenticação Restrita: Sistema de login e cadastro validando e-mails específicos (ex: @gmail.com).
 
